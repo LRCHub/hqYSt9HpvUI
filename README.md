@@ -1,0 +1,80 @@
+# ZEROBASEONE – CRUSH
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Calling me
+내겐 너무 눈부신
+너를 위한 Loyalty
+준비됐어 Right now
+눈부신 Your inside
+감히 바랄 테니 허락해
+Oh oh oh
+Break of dawn dawn 너만은
+Oh oh oh
+Never down down 지킽게
+부서져 밟혀도 It's ok, Here I am
+You make me so supernatural
+Gosh oh oh oh
+너를 꺾을 수 없게 해
+Gosh oh oh oh
+네게 상처 줄 수 없게
+Crush me
+날 부숴도 널 지켜
+Crush me
+무너져도 난 버텨
+Crush me
+널 위해 서면 Oh oh oh
+더 아파도 너를 향해 Crush
+습관처럼 너를 찾고
+버릇처럼 너만 감싸
+축복이라 생각할게
+당연한 일인 걸, 이젠 내게
+널 향한 Devotion
+너라면 난 Yes sir
+If you want me I'll be there
+You're my destination
+Oh oh oh
+Break of dawn dawn 너만은
+Oh oh oh
+Never down down 지킽게
+부서져 밟혀도 It's ok, Here I am
+You make me so supernatural
+Gosh oh oh oh
+너를 꺾을 수 없게 해
+Gosh oh oh oh
+네게 상처 줄 수 없게
+Crush me
+날 부숴도 널 지켜
+Crush me
+무너져도 난 버텨
+Crush me
+널 위해 서면 Oh oh oh
+더 아파도 너를 향해 Crush
+Crush Crush Crush
+너를 본 순간 빠져들어 Rush
+Hush Hush Hush
+너 말곤 전부 사라진 My world
+내 모든 시간에
+오직 너만이 가득 차
+내 모든 공간에
+오직 너만이 가득 차
+용기 내 잡은 네 손 이제 놓지 않아
+It's time for us to fly
+이제 내가 너를 지켜
+부딪혀
+Crush me
+날 부숴도 널 지켜
+Crush me
+무너져도 난 버텨
+Crush me
+널 위해 서면 Oh oh oh
+더 아파도 너를 향해 Crush
+Gosh
+You saved me
+Gosh
+You set me free
+Gosh
+Oh oh oh
+더 아파도 너를 향해 Crush
+```
