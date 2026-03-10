@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "CRUSH",
+  "base_artist": "ZEROBASEONE",
+  "createdAt": "2026-03-10T06:53:18.448405Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Girl Crush",
+      "artist": "Little Big Town",
+      "has_synced": true,
+      "path": "select/01_Girl_Crush_Little_Big_Town.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "#1 Crush",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/02_1_Crush_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "#1 Crush (Early Demo Mix)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/03_1_Crush_(Early_Demo_Mix)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "#1 Crush (Early Demo Mix)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/04_1_Crush_(Early_Demo_Mix)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "#1 Crush (2015 - Remaster)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/05_1_Crush_(2015_-_Remaster)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "#1 Crush (Original Mix)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/06_1_Crush_(Original_Mix)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crush the Bird",
+      "artist": "Lotte Kestner",
+      "has_synced": false,
+      "path": "select/07_Crush_the_Bird_Lotte_Kestner.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Crush",
+      "artist": "Magnapop",
+      "has_synced": false,
+      "path": "select/08_The_Crush_Magnapop.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crush On You",
+      "artist": "Nero",
+      "has_synced": true,
+      "path": "select/09_Crush_On_You_Nero.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Bomb (The Teenagers Lou Crush mix)",
+      "artist": "New Young Pony Club",
+      "has_synced": false,
+      "path": "select/10_The_Bomb_(The_Teenagers_Lou_Crush_mix)_New_Young_Pony_Club.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crush",
+      "artist": "Club Intl feat. John Eatherly & Madeline Follin",
+      "has_synced": true,
+      "path": "select/11_Crush_Club_Intl_feat._John_Eatherly_&_Madeline_Follin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crush",
+      "artist": "Club Intl.",
+      "has_synced": true,
+      "path": "select/12_Crush_Club_Intl..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crush",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/13_Crush_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crush 'Em",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/14_Crush_'Em_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "First Crush",
+      "artist": "Bladee feat. Yung Lean",
+      "has_synced": true,
+      "path": "select/15_First_Crush_Bladee_feat._Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "First Crush (feat. Yung Lean)",
+      "artist": "Bladee & Ecco2k",
+      "has_synced": true,
+      "path": "select/16_First_Crush_(feat._Yung_Lean)_Bladee_&_Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Crush",
+      "artist": "Ethel Cain",
+      "has_synced": true,
+      "path": "select/17_Crush_Ethel_Cain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CRUSH",
+      "artist": "ZEROBASEONE",
+      "has_synced": false,
+      "path": "select/pl_01_CRUSH_ZEROBASEONE.txt"
+    }
+  ]
+}
